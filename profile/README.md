@@ -1,4 +1,4 @@
-![👋 Hi, we are the Modded Android Team](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)
+![👋 Hi, we are the Modded Android Team](https://railsware.com/blog/wp-content/uploads/2021/11/featured_image.jpg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=modded-android&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -19,7 +19,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 We currently working on: **💻 Developing an alternative to android and IOS**
+- 💼 We are currently working on: **💻 Developing an alternative to android and IOS**
 - 💬 Ask us about: **💡 Why we are doing this**
 - ⚡ Fun fact: **🎢 we once debugged a issue while on a roller coaster!**
 - 📂 Portfolio: **<a href="modded-android.dev" target="_blank">modded-android.dev</a>**
@@ -36,6 +36,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
- **<h3 align="left">Support Me</h3>**
+ **<h3 align="left">Support us</h3>**
 
 <p align="left"><a href="https://www.patreon.com/axylprojects" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="36" style="margin-right: 4px"></a></p>
